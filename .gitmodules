@@ -1,0 +1,3 @@
+[submodule "VerifyMessage/lib/forge-std"]
+	path = VerifyMessage/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
